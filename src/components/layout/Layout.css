@@ -1,0 +1,19 @@
+.layout .mds-container {
+    background-color: #E5E5E5;
+    padding-left: 5vw;
+    padding-top: 10px;
+}
+.layout .mds-container h2 {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.layout .mds {
+    display: flex;
+}
+
+.layout h1 {
+    text-align: left;
+    height: 50px;
+    padding-left: 5vw;
+}

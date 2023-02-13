@@ -1,0 +1,40 @@
+.metadata {
+    background-color: white;
+    width: 291px;
+    height: 166px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 3.80976px 0.952441px 15px rgba(154, 160, 170, 0.15);
+    margin: 0 26px 45px 0;
+    position: relative;
+    padding: 0 20px;
+}
+
+.metadata .image-container {
+    height: 40px;
+    width: 60px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-radius: 3px;
+    background-color: #B8D3EC;
+}
+.metadata .image-container img{
+    height: 30px;
+    width: 30px;
+}
+
+.metadata h3{
+    text-align: left;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 16px;
+    color: #323232;
+    margin-bottom: 10px;
+}
+
+.metadata p{
+    text-align: left;
+    font-size: 16px;
+    color: #666464;
+}
